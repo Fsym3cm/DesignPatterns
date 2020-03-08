@@ -41,7 +41,7 @@
 
 `FactoryPatternDemo`，我们演示类使用`ShapeFactory`来获取Shape对象。它将向`ShapeFactory`传递信息，以便获取它所需对象的类型。
 
-![](F:\Gitlibrary\DesignPatterns\Photo\ShapeFactory.png)
+![](../Photo/ShapeFactory.png)
 
 **步骤一：**
 

@@ -49,7 +49,7 @@
 
 `SingleObject`类提供了一个静态方法，供外界获取它的静态实例。`SingletonPatternDemo`，演示类使用`SingleObject`类来获取`SingleObject`对象。
 
-![](F:\Gitlibrary\DesignPatterns\Photo\singleton.png)
+![](../Photo/singleton.png)
 
 **步骤一：**
 

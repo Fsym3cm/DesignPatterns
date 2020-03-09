@@ -50,11 +50,11 @@
   </component>
   <component name="RunManager" selected="Application.ProxyPatternDemo">
     <configuration name="AdapterPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chengzimm.BehavioralPattern.AdapterPattern.AdapterPatternDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.chengzimm.StructuralPattern.AdapterPattern.AdapterPatternDemo" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chengzimm.BehavioralPattern.AdapterPattern.*" />
+          <option name="PATTERN" value="com.chengzimm.StructuralPattern.AdapterPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,11 +63,11 @@
       </method>
     </configuration>
     <configuration name="DecoratorPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chengzimm.BehavioralPattern.DecoratorPattern.DecoratorPatternDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.chengzimm.StructuralPattern.DecoratorPattern.DecoratorPatternDemo" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chengzimm.BehavioralPattern.DecoratorPattern.*" />
+          <option name="PATTERN" value="com.chengzimm.StructuralPattern.DecoratorPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,11 +76,11 @@
       </method>
     </configuration>
     <configuration name="ProxyPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chengzimm.BehavioralPattern.ProxyPattern.ProxyPatternDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.chengzimm.StructuralPattern.ProxyPattern.ProxyPatternDemo" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chengzimm.BehavioralPattern.ProxyPattern.*" />
+          <option name="PATTERN" value="com.chengzimm.StructuralPattern.ProxyPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,6 +155,7 @@
       <updated>1583659635887</updated>
       <workItem from="1583659637242" duration="15134000" />
       <workItem from="1583754513603" duration="12652000" />
+      <workItem from="1583770090045" duration="37000" />
     </task>
     <servers />
   </component>

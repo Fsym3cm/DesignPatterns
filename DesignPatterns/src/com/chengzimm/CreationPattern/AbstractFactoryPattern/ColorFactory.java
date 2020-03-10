@@ -2,7 +2,7 @@ package com.chengzimm.CreationPattern.AbstractFactoryPattern;
 
 public class ColorFactory extends AbstractFactory {
 
-    //形状信息返回 null
+
     @Override
     public Shape getShape(String shapeType) {
         return null;

@@ -45,7 +45,7 @@
 
 `DecoratorPatternDemo`为演示类，使用`RedShapeDecorator`来装饰`Shape`对象
 
-![](../photo/Decorator.png)
+![](../Photo/Decorator.png)
 
 **步骤一：**
 

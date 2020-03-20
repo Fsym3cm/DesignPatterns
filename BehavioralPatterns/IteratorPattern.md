@@ -37,7 +37,7 @@
 
 创建一个叙述导航方法的`Iterator`接口和一个返回迭代器的`Container`接口。实现了`Container`接口的实体类将负责实现`Iterator`接口。`IteratorPatternDemo`作为演示类，它使用实体类`NamesRepository`来打印`NamesRepository`中储存为集合的`Names`。
 
-![](../photo/Iterator.png)
+![](../Photo/Iterator.png)
 
 **步骤一：**
 

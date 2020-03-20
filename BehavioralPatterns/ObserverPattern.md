@@ -49,7 +49,7 @@
 
 `ObserverPatternDemo`作为演示类，其使用`Subject`和实体类对象来演示观察者模式。
 
-![](../photo/Observer.png)
+![](../Photo/Observer.png)
 
 **步骤一**
 

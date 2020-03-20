@@ -53,7 +53,7 @@
 
 `AudioPlayer`使用适配器类`MediaAdapter`传递所需的音频类型，不需要知道能播放所需格式音频的实际类。`AdapterPatternDemo`作为演示类，使用`AudioPlayer`来播放各种格式。
 
-![](../photo/Adapter.png)
+![](../Photo/Adapter.png)
 
 **步骤一：**
 
